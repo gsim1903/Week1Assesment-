@@ -7,3 +7,6 @@ Different data types - strings, numbers (floats and integers), booleans and arra
 
 
 Queestion 2 
+
+Wrote some more
+
