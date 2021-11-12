@@ -1,0 +1,9 @@
+Question 1
+
+name = 'variable'
+
+Different data types - strings, numbers (floats and integers), booleans and arrays
+
+
+
+Queestion 2 
